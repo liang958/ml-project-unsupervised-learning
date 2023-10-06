@@ -5,9 +5,9 @@ Perform unsupervised learning techniques on a wholesale data dataset and use dat
 
 ## Process
 1. Exploratory data analysis and pre-processing
-1) Import and clean the data sets, analyze and visualize the relationships between the different variables
-2) Handle missing values and outliers
-3) Perform feature engineering as needed
+-  Import and clean the data sets, analyze and visualize the relationships between the different variables
+-  Handle missing values and outliers
+-  Perform feature engineering as needed
 2. KMeans clustering
 3. Hierarchical clustering
 4. Principal Component Analysis (PCA)
